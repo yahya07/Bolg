@@ -1,0 +1,26 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-image: url(/Imgs/SvWWN.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* #GetStr {
+  color: darkgoldenrod;
+} */
+
+a {
+  outline-color: darkgoldenrod;
+}
+
+/* .navbar {
+  margin-left: 1px;
+  border-style: solid;
+} */
+.navbar-brand {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#GL {
+  margin-top: 1px;
+}
